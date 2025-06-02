@@ -81,8 +81,8 @@ If you find this work useful, please cite:
 ## 🔗 Related Work
 
 This work builds on our prior research:
-- [Harnessing Federated Learning for Anomaly Detection in Supercomputer Nodes (FGCS 2024)](link)
-- [A Federated Learning Approach for Anomaly Detection in HPC (ICTAI 2023)](link)
+- [Harnessing Federated Learning for Anomaly Detection in Supercomputer Nodes (FGCS 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24004254)
+- [A Federated Learning Approach for Anomaly Detection in HPC (ICTAI 2023)][(link)](https://ieeexplore.ieee.org/abstract/document/10356584)
 
 ## 📬 Contact
 
